@@ -1,1 +1,10 @@
-//
+
+@tailwind base;
+
+@import "fonts";
+
+@import "customs";
+
+@tailwind components;
+
+@tailwind utilities;
