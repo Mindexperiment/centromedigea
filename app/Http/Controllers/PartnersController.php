@@ -6,6 +6,6 @@ class PartnersController extends Controller
 {
     public function index()
     {
-        return view('website.homepage');
+        return view('partners.index');
     }
 }
