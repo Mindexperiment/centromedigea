@@ -9,7 +9,7 @@
 
     <div class="flex items-center">
         <div class="hidden sm:block sm:w-2/5 pr-2">
-            <a href="{{ route('partners.pedodonzia') }}">
+            <a href="">
                 <img src="{{ asset('images/partners/pedodonzia/bambini.jpg') }}" class="border-4 border-teal-400 rounded-full shadow-md" />
             </a>
         </div>
