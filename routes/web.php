@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/servizi', 'ServicesController@index')->name('services.index');
+Route::get('/servizi', 'ServiziController@index')->name('servizi.index');

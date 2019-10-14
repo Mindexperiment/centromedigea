@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-class ServicesController extends Controller
+class ServiziController extends Controller
 {
     public function index()
     {
-        return view('services.index');
+        return view('servizi.index');
     }
 }
