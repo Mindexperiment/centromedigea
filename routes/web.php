@@ -10,3 +10,6 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+Route::get('/', 'WebsiteController@homepage')->name('website.homepage');
+Route::get('bambini', 'WebsiteController@bambini')->name('website.bambini');
