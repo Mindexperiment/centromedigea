@@ -5,6 +5,4 @@
 
     @include($page)
 
-    @include('layouts.footer')
-
 @endsection
