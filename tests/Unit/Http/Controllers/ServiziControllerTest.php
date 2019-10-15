@@ -22,7 +22,7 @@ class ServiziControllerTest extends TestCase
         $response = $this->get(route($route));
 
         $response->assertOk();
-        $response->assertViewIs($route);
+        $response->assertViewIs('servizi.index');
         $response->assertViewHas('page', $page);
     }
 
