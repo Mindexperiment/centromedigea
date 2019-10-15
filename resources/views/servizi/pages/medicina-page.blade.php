@@ -26,7 +26,7 @@
 
     <p class="mb-4">La <strong>medicina estetica</strong> è quella branca della medicina <em>rivolta al miglioramento della qualità della vita dei pazienti</em> che convivono con <strong>inestetismi</strong> indesiderati, attraverso metodi non chirurgici e non invasivi.</p>
     <p class="mb-4">Le terapie proposte sono atte alla <strong>prevenzione dell'invecchiamento</strong>, in particolare quello cutaneo, e alla <strong>correzione di imperfezioni</strong> corporee non patologiche.</p>
-    <p class="mb-4">I trattamenti di medicina estetica sono eseguiti in collaborazione con la dottoressa Marta Massignani (<a href="{{ route('partners.estetica') }}" title="Profilo di Marta Massignani" class="underline text-blue-600">#marta</a>), che da anni si occupa di medicina estetica e collabora con diversi chirurghi plastici.</p>
+    <p class="mb-4">I trattamenti di medicina estetica sono eseguiti in collaborazione con la dottoressa Marta Massignani (<a href="" title="Profilo di Marta Massignani" class="underline text-blue-600">#marta</a>), che da anni si occupa di medicina estetica e collabora con diversi chirurghi plastici.</p>
     <p class="mb-4">{{ __( "I trattamenti di medicina e chirurgia estetica offerti dal Centro Medico Igea sono:" ) }}</p>
 
     <ul class="list-disc list-inside">

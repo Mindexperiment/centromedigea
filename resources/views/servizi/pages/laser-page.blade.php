@@ -8,7 +8,7 @@
         <ol class="mb-4 flex flex-wrap">
             <li><a href="{{ route('website.homepage') }}" class="underline text-blue-600">{{ __( "Home" ) }}</a></li>
             <li><span class="mx-2">/</span></li>
-            <li><a href="{{ route('services.index') }}" class="pl-2 underline text-blue-600">{{ __( "Servizi" ) }}</a></li>
+            <li><a href="{{ route('servizi.index') }}" class="pl-2 underline text-blue-600">{{ __( "Servizi" ) }}</a></li>
             <li><span class="mx-2">/</span></li>
             <li aria-current="page">{{ __( "Laser" ) }}</li>
         </ol>
