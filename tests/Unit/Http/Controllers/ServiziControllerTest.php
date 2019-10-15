@@ -17,33 +17,34 @@ class ServiziControllerTest extends TestCase
     /**
      * @dataProvider servizi_routes
      */
-    public function test_ServiziRoute($route)
+    public function test_ServiziRoute($route, $page)
     {
         $response = $this->get(route($route));
 
         $response->assertOk();
         $response->assertViewIs($route);
+        $response->assertViewHas('page', $page);
     }
 
     public function servizi_routes()
     {
         return [
-            [ 'servizi.chirurgia' ],
-            [ 'servizi.conservativa' ],
-            [ 'servizi.estetica' ],
-            [ 'servizi.igiene' ],
-            [ 'servizi.implantologia' ],
-            [ 'servizi.laser' ],
-            [ 'servizi.medicina' ],
-            [ 'servizi.ortodonzia' ],
-            [ 'servizi.osteopatia' ],
-            [ 'servizi.paradontologia' ],
-            [ 'servizi.pedodonzia' ],
-            [ 'servizi.prgf' ],
-            [ 'servizi.protesi' ],
-            [ 'servizi.radiologia' ],
-            [ 'servizi.roncopatia' ],
-            [ 'servizi.sedazione' ],
+            [ 'servizi.chirurgia', 'servizi.pages.chirurgia-page' ],
+            [ 'servizi.conservativa', 'servizi.pages.conservativa-page' ],
+            [ 'servizi.estetica', 'servizi.pages.estetica-page' ],
+            [ 'servizi.igiene', 'servizi.pages.igiene-page' ],
+            [ 'servizi.implantologia', 'servizi.pages.implantologia-page' ],
+            [ 'servizi.laser', 'servizi.pages.laser-page' ],
+            [ 'servizi.medicina', 'servizi.pages.medicina-page' ],
+            [ 'servizi.ortodonzia', 'servizi.pages.ortodonzia-page' ],
+            [ 'servizi.osteopatia', 'servizi.pages.osteopatia-page' ],
+            [ 'servizi.paradontologia', 'servizi.pages.paradontologia-page' ],
+            [ 'servizi.pedodonzia', 'servizi.pages.pedodonzia-page' ],
+            [ 'servizi.prgf', 'servizi.pages.prgf-page' ],
+            [ 'servizi.protesi', 'servizi.pages.protesi-page' ],
+            [ 'servizi.radiologia', 'servizi.pages.radiologia-page' ],
+            [ 'servizi.roncopatia', 'servizi.pages.roncopatia-page' ],
+            [ 'servizi.sedazione', 'servizi.pages.sedazione-page' ],
         ];
     }
 }
