@@ -6,10 +6,8 @@ class ServiziController extends Controller
 {
     public function index()
     {
-        public function index() {
-            return view('servizi.index', [ 'page' => 'servizi.pages.index-page' ])
-                ->with('title', 'Servizi');
-        }
+        return view('servizi.index', [ 'page' => 'servizi.pages.index-page' ])
+            ->with('title', 'Servizi');
     }
 
     public function chirurgia()
