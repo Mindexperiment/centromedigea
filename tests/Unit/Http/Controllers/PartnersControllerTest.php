@@ -62,7 +62,7 @@ class PartnersControllerTest extends TestCase
         $response->assertViewIs('partners.pilates');
     }
 
-    public function test_IndexRoute()
+    public function test_ProtesiRoute()
     {
         $response = $this->get(route('partners.protesi'));
 
