@@ -16,7 +16,7 @@
                     <span class="fas fa-arrow-right"></span>
                 </span>
             </div>
-            <div class="flex-1">{{ __( "Corso "Odontoiatria Pediatrica: la ricerca di soluzioni pratiche per vivere meglio con i nostri piccoli pazienti" della Dott.ssa V Birardi" ) }}, <em>2018</em></div>
+            <div class="flex-1">{{ __( "Corso \"Odontoiatria Pediatrica: la ricerca di soluzioni pratiche per vivere meglio con i nostri piccoli pazienti\" della Dott.ssa V Birardi" ) }}, <em>2018</em></div>
         </li>
         <li class="py-4 flex">
             <div>
@@ -32,7 +32,7 @@
                     <span class="fas fa-arrow-right"></span>
                 </span>
             </div>
-            <div class="flex-1">{{ __( "Corso "La terapia non chirurgica mini-invasiva: nuovi protocolli nella gestione del biofilm" della Dott.ssa M Mensi" ) }}, <em>2016</em></div>
+            <div class="flex-1">{{ __( "Corso \"La terapia non chirurgica mini-invasiva: nuovi protocolli nella gestione del biofilm\" della Dott.ssa M Mensi" ) }}, <em>2016</em></div>
         </li>
         <li class="py-4 flex">
             <div>
@@ -40,7 +40,7 @@
                     <span class="fas fa-arrow-right"></span>
                 </span>
             </div>
-            <div class="flex-1">{{ __( ""La ricostruzione estetica guidata nei settori anteriori" della Dott.ssa P Lucchi" ) }}, <em>2016</em></div>
+            <div class="flex-1">{{ __( "\"La ricostruzione estetica guidata nei settori anteriori\" della Dott.ssa P Lucchi" ) }}, <em>2016</em></div>
         </li>
         <li class="py-4 flex">
             <div>
