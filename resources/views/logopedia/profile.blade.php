@@ -34,7 +34,7 @@
 <hr class="my-12 border-t border-t-gray-700" />
 
 <div>
-    <p class="mb-4">{{ "Durante il mio percorso di studi ho svolto tirocinio formativo presso: U.O. Neuropsichiatria Psicologia Riabilitazione Età evolutiva dell'Ulss 4 Alto Vicentino, U.O. Età Evolutiva Disabilità dell'Ulss 5 Ovest Vicentino, Centro Medico di Foniatria (Padova), Medicina Fisica e Riabilitazione dell'Ospedale di Lonigo, U.O.C. Recupero e Riabilitazione Funzionale dell'Ospedale di Santorso e C.R.I.C. (Centro Regionale Invecchiamento Cerebrale)." ) }}</p>
+    <p class="mb-4">{{ __( "Durante il mio percorso di studi ho svolto tirocinio formativo presso: U.O. Neuropsichiatria Psicologia Riabilitazione Età evolutiva dell'Ulss 4 Alto Vicentino, U.O. Età Evolutiva Disabilità dell'Ulss 5 Ovest Vicentino, Centro Medico di Foniatria (Padova), Medicina Fisica e Riabilitazione dell'Ospedale di Lonigo, U.O.C. Recupero e Riabilitazione Funzionale dell'Ospedale di Santorso e C.R.I.C. (Centro Regionale Invecchiamento Cerebrale)." ) }}</p>
     <p>{{ __( "Partecipo periodicamente a corsi di formazione e aggiornamento secondo il sistema di Educazione Continua in Medicina, cercando sempre di crescere attraverso lo studio e l'esperienza." ) }}</p>
 </div>
 
