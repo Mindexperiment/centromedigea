@@ -22,7 +22,7 @@
             <li class="mb-2">{{ __( "posizione del collo" ) }}</li>
         </ul>
 
-        <p class="mb-4 font-medium text-xl">Principi tradizionali" ) }}</p>
+        <p class="mb-4 font-medium text-xl">{{ __( "Principi tradizionali" ) }}</p>
 
         <ul class="mb-4 list-disc list-inside">
             <li class="mb-2">{{ __( "concentrazione" ) }}</li>
