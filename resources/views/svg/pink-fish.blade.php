@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="207.85" height="172.6118">
+<svg xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .fdd6e9f6-3631-4155-bb4e-f9ea645007b0{fill:#009245}.\30 4543301-264f-4c81-8d5b-ed5f00cf62be{fill:#8cc63f}.\36 05007da-c7ee-466b-94f5-cf6cbe0f4383{fill:#ff669d}.ca90d289-594d-4b7b-ae1c-9655ea29d945{fill:#fff}.\30 981880b-2518-4350-8888-8ee55aa58c0e{fill:#1d1d1b}.\35 41d700b-36c9-4220-9719-d7e120256089{fill:#fdd80e}.\32 839469b-9598-40e0-8a88-a48012a0b2ab{fill:#ffa9cc}

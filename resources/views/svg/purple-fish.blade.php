@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="102.5958" height="91.5741">
+<svg xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .\34 42901a4-2ef1-4add-bf21-e5e4f2138ccf{fill:#a78abc}.\36 03b99d9-ab91-44a0-a0e0-d88c815024ee{fill:#674577}.e60eb1c2-0297-4409-bd5f-3aef967b0e01{fill:#432554}.\35 26ce5b2-742d-40d7-9781-29e62128adeb{fill:#fff}
