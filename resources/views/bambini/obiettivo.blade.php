@@ -11,7 +11,9 @@
 
     <div class="my-6 flex flex-wrap justify-center items-center">
         <div class="w-2/5 pr-6">
-            <img src="{{ asset('images/layout/pink-fish.svg') }}" alt="Un pesce di colore rosa" />
+            <div class="w-full h-auto">
+                @include('svg.pink-fish')
+            </div>
         </div>
 
         <div class="w-3/5 p-4 rounded-lg text-center text-sm bg-pink-600 text-white">

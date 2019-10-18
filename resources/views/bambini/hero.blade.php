@@ -1,5 +1,7 @@
 <div class="relative">
-    <img src="{{ asset('images/layout/thewall.svg') }}" alt="Un bagno asciuga nel mare" class="w-full h-auto" />
+    <div class="w-full h-auto">
+        @include('svg.thewall')
+    </div>
 
     <div class="container mx-auto flex justify-center items-center text-center">
 

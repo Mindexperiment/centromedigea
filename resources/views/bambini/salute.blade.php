@@ -12,13 +12,17 @@
         </div>
 
         <div class="w-24 pl-6">
-            <img src="{{ asset('images/layout/octopus.svg') }}" alt="Un polipo trasparente" />
+            @include('svg.octopus')
         </div>
     </div>
 
     <p>{{ __( "Dato che la salute orale, come abbiamo visto, non dipende da un singolo fattore, abbiamo deciso di collaborare con tutte quelle figure che ruotano attorno al bambino per garantire la sua salute. Per questo, abbiamo scelto di creare un team specializzato per dar vita ad una clinica che ruotasse attorno alle esigenze del bambino." ) }}</p>
 
+    @include('bambini.footer')
+
     </div>
 
-    <img src="{{ asset('images/layout/bottom.svg') }}" alt="Un fondale marino" class="w-full h-auto" />
+    <div class="w-full h-auto">
+        @include('svg.bottom')
+    </div>
 </div>
