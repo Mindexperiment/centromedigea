@@ -53,9 +53,9 @@
 
         <p id="applicazione" class="mb-2 font-medium text-xl">{{ __( "Applicazione degli apparecchi acustici" ) }}</p>
 
-        <p class="mb-4">{{ __( "Adattamento e applicazione delle protesi di ultima generazione con soluzione personalizzate per il paziente.')}}</p>
+        <p class="mb-4">{{ __( "Adattamento e applicazione delle protesi di ultima generazione con soluzione personalizzate per il paziente." ) }}</p>
         <p class="mb-4">{{ __( "Utilizzo di scale di valutazione dei benefici di adattamento degli apparecchi acustici e strumenti oggettivi per le misure audioprotesiche." ) }}</p>
-        <p>{{ __( "Regolazioni con sistemi digitali e sistemi Rem per avere la più affidabile risposta di guadagno protesico per il paziente.')}}
+        <p>{{ __( "Regolazioni con sistemi digitali e sistemi Rem per avere la più affidabile risposta di guadagno protesico per il paziente." ) }}</p>
     </div>
 </section>
 
