@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348 367">
   <defs>
     <style>
       .\36 70d4504-9c17-4b70-913a-4bbb4fda9210{fill:#d1cbe5}.\31 6282478-4a1e-4837-8b9b-c7c71e2baf97,.\36 70d4504-9c17-4b70-913a-4bbb4fda9210,.\38 63cdfca-2a25-40fe-9b28-1ed87c6661af,.ca1f62f6-6de0-4b9e-ad59-a486fd21d68c{fill-rule:evenodd}.\31 6282478-4a1e-4837-8b9b-c7c71e2baf97{fill:#fff}.ca1f62f6-6de0-4b9e-ad59-a486fd21d68c{fill:#231915;stroke:#231915;stroke-miterlimit:10;stroke-width:2.3622px}.\38 63cdfca-2a25-40fe-9b28-1ed87c6661af{fill:#f3b1b2}

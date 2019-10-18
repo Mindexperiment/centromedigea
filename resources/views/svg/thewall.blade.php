@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1024">
   <defs>
     <filter id="8f2ac516-c109-472b-aa71-0c01a2d4963c" x="959" y="203" width="56" height="55" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-color="#fff" result="bg"/>
