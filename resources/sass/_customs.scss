@@ -1,16 +1,18 @@
 
 // - partner tiles
-.partner-tile { min-height: 26rem; }
+.partner-tile {
+    min-height: 26rem;
+}
 .partner-tile::before {
- background-image: linear-gradient(0deg, #1e2022 0%, transparent 75%);
- background-repeat: repeat-x;
- bottom: 0;
- content: "";
- height: 100%;
- position: absolute;
- right: 0;
- top: 0;
- right: 0;
- z-index: -1;
- width: 100%;
+    background-image: linear-gradient(0deg, #1e2022 0%, transparent 75%);
+    background-repeat: repeat-x;
+    bottom: 0;
+    content: "";
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    width: 100%;
 }
