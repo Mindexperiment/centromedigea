@@ -6,7 +6,7 @@
         <h3 class="mb-2 font-medium text-2xl text-white">{{ __( "Udito" ) }}</h3>
 
         <div class="mt-6">
-            <strong class="mb-2 font-semibold text-gray-400">{{ __( "Matteo Massignani" ) }}</strong>
+            <strong class="mb-2 font-semibold text-gray-200">{{ __( "Matteo Massignani" ) }}</strong>
             <div>
                 <img src="{{ asset('images/partners/udito/massignani-matteo.jpg') }}" class="mx-auto w-24 h-24 rounded-full" alt="Immagine profilo Matteo Massignani" />
             </div>
