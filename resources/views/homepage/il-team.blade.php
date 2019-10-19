@@ -9,7 +9,7 @@
         </div>
 
         <div class="mt-8">
-            <carousel v-bind:per-page="1" v-bind:per-page-custom="[[768,2]]">
+            <carousel v-bind:per-page="1" v-bind:per-page-custom="[[768,2]]" v-bind:autoplay-timeout="5000" autoplay loop>
 
                 <slide>
                     @include( 'homepage.slides.monica' )
@@ -37,7 +37,7 @@
             </div>
 
             <div class="mt-8">
-                <carousel v-bind:per-page="1" v-bind:per-page-custom="[[768,2]]">
+                <carousel v-bind:per-page="1" v-bind:per-page-custom="[[768,2]]" v-bind:autoplay-timeout="5000" autoplay loop>
 
                     <slide>
                         @include( 'homepage.slides.gianmarco' )
