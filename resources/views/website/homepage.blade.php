@@ -11,6 +11,8 @@
 
     @include('homepage.lead')
 
+    @include('homepage.il-team')
+
     @include('layouts.footer')
 
 @endsection
