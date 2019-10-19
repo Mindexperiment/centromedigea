@@ -12,7 +12,7 @@ const tailwind = require('tailwindcss');
  |
  */
 
-mix.copyDirectory('resources/images', 'public/resources/images');
+mix.copyDirectory('resources/images', 'public/images');
 
 mix.sass('resources/sass/app.scss', 'public/css')
     .options({
