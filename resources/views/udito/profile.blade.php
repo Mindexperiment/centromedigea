@@ -59,4 +59,6 @@
 
 @include('udito.services')
 
+@include('udito.slideshow')
+
 @endsection

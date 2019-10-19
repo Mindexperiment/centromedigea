@@ -45,6 +45,8 @@
 
 @include('fisioterapia.disturbi')
 
+@include('fisioterapia.slideshow')
+
 @include('fisioterapia.neurologica')
 
 @include('fisioterapia.domicilio')

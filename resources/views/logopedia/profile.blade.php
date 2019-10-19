@@ -44,4 +44,6 @@
 
 @include('logopedia.come')
 
+@include('logopedia.slideshow')
+
 @endsection

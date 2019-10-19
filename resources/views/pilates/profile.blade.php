@@ -45,6 +45,8 @@
 
 @include('pilates.altro')
 
+@include('pilates.slideshow')
+
 @include('pilates.corsi')
 
 @endsection

@@ -7,6 +7,8 @@
     <p class="mb-4">{{ __( "Con il Check-up cutaneo e una prescrizione cosmetologica adeguata si può facilmente porre rimedio ai problemi di pelle secca, disidratata che “tira”, oppure di pelle grassa, lucida e untuosa tendente all'acne." ) }}</p>
     <p class="mb-4">{{ __( "Il Check-up cutaneo è un esame semplice e non invasivo in grado di studiare tutti quei parametri cutanei fondamentali per il mantenimento dell'equilibrio idro-lipidico al fine di garantire alla pelle un aspetto sano, luminoso e compatto." ) }}</p>
 
+    @include('estetica.slideshow')
+
     <div class="py-4 px-2 bg-white">
         <p class="mb-4 font-medium text-xl">{{ __( "TRATTAMENTI" ) }}</p>
 
