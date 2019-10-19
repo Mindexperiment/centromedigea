@@ -12,6 +12,8 @@ const tailwind = require('tailwindcss');
  |
  */
 
+mix.copyDirectory('resources/images', 'public/resources/images');
+
 mix.sass('resources/sass/app.scss', 'public/css')
     .options({
         processCssUrls: false,
