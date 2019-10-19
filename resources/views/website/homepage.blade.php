@@ -3,6 +3,8 @@
 @section('body')
     @include('layouts.header')
 
+    @include('homepage.slideshow')
+
     @include('homepage.il-centro')
 
     @include('homepage.contatti')
